@@ -115,7 +115,11 @@ body {
     border-color: #1a1a1a;
 
    
-    /*background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);*/
+    
+}.author-avatar:hover {
+    transform: scale(1.1);
+    transition: transform 0.3s ease;
+    cursor: pointer;
 }
 
 .author-name {
@@ -129,7 +133,7 @@ body {
     margin-top: 80%; 
     
 }
-/* 1. Your base styles (these apply to mobile by default) */
+/*  base styles (these apply to mobile by default) */
 body {
   font-size: 16px;
   margin: 0;
@@ -142,7 +146,7 @@ body {
 }
 
 
-/* 2. media queries at the bottom of your file */
+/* 2. media queries  */
 
 @media (min-width: 768px) {
   .blog-card {
