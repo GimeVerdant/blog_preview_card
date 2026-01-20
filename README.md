@@ -6,7 +6,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 - [Overview](#overview)
   - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
+  - [Screenshots](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -49,9 +49,9 @@ Users should be able to:
 
 ### What I learned
 
-Using Flexbox
-Mobile first 
-Hover states 
+- Using Flexbox
+- Mobile first 
+- Hover states 
 
 ### Continued development
 
